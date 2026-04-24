@@ -3,13 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Class2/Class2.iml" filepath="$PROJECT_DIR$/Class2/Class2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/Class3.iml" filepath="$PROJECT_DIR$/Class3/Class3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Class2/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/Exercise11/Exercise11.iml" filepath="$PROJECT_DIR$/Class3/Exercise11/Exercise11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Class2/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/Exercise22/Exercise22.iml" filepath="$PROJECT_DIR$/Class3/Exercise22/Exercise22.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Class2/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/Exercise33/Exercise33.iml" filepath="$PROJECT_DIR$/Class3/Exercise33/Exercise33.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise4/Exercise4.iml" filepath="$PROJECT_DIR$/Class2/Exercise4/Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/Exercise44/Exercise44.iml" filepath="$PROJECT_DIR$/Class3/Exercise44/Exercise44.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise5/Exercise5.iml" filepath="$PROJECT_DIR$/Class2/Exercise5/Exercise5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise6/Exercise6.iml" filepath="$PROJECT_DIR$/Class2/Exercise6/Exercise6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Petar_Shijakoski_5864_2.iml" filepath="$PROJECT_DIR$/.idea/Petar_Shijakoski_5864_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/RestaurantProducerConsumerExample/RestaurantProducerConsumerExample.iml" filepath="$PROJECT_DIR$/Class3/RestaurantProducerConsumerExample/RestaurantProducerConsumerExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/ThreadRacingExample/ThreadRacingExample.iml" filepath="$PROJECT_DIR$/Class3/ThreadRacingExample/ThreadRacingExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class3/ThreadSynchronizationExample/ThreadSynchronizationExample.iml" filepath="$PROJECT_DIR$/Class3/ThreadSynchronizationExample/ThreadSynchronizationExample.iml" />
     </modules>
   </component>
 </project>
