@@ -4,6 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Class2/Class2.iml" filepath="$PROJECT_DIR$/Class2/Class2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class3/Class3.iml" filepath="$PROJECT_DIR$/Class3/Class3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Class4.iml" filepath="$PROJECT_DIR$/Class4/Class4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc1/Exc1.iml" filepath="$PROJECT_DIR$/Class4/Exc1/Exc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc2/Exc2.iml" filepath="$PROJECT_DIR$/Class4/Exc2/Exc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc3/Exc3.iml" filepath="$PROJECT_DIR$/Class4/Exc3/Exc3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc4/Exc4.iml" filepath="$PROJECT_DIR$/Class4/Exc4/Exc4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc5/Exc5.iml" filepath="$PROJECT_DIR$/Class4/Exc5/Exc5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc6/Exc6.iml" filepath="$PROJECT_DIR$/Class4/Exc6/Exc6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc7/Exc7.iml" filepath="$PROJECT_DIR$/Class4/Exc7/Exc7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class4/Exc8/Exc8.iml" filepath="$PROJECT_DIR$/Class4/Exc8/Exc8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Class2/Exercise1/Exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class3/Exercise11/Exercise11.iml" filepath="$PROJECT_DIR$/Class3/Exercise11/Exercise11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class2/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Class2/Exercise2/Exercise2.iml" />
